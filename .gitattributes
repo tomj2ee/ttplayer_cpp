@@ -1,0 +1,4 @@
+cmake/*.sh text eol=lf
+*.sh text eol=lf
+*.mm text eol=lf
+thirdparty/ffmpeg-src/** text=auto eol=lf
